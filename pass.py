@@ -2,7 +2,7 @@
 """
     845 <GitHup>    
 """
-    
+print("nhập vào số phần tử")
 
 # một số tài liệu 
 """
