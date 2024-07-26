@@ -35,3 +35,8 @@ receive_thread.start()
 
 write_thread = threading.Thread(target=write)
 write_thread.start()
+"""
+git remote add origin https://github.com/tienthien196/file_msg_server.git
+git branch -M main
+git push -u origin main
+"""
